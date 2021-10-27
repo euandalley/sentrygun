@@ -1,0 +1,7 @@
+Horizontal Servo:
+-Straight: 61°
+
+Vertical Servo:
+-Parallel to floor: 85°
+-Max downwards: 24°
+-Max upwards: 173°
