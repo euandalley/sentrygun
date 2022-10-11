@@ -7,14 +7,7 @@ The project was inspired by [Project Sentry Gun](https://sites.google.com/a/rudo
 
 Currently can track multiple targets whilst shooting at one. Designed to work with the Xbox Kinect.
 
-## Made with
-* Java (Processing)
-* C++ (Ardunio)
-
-## Project Status
-### Project is: _In Progress_
-
-Is currently in the UAE whilst I am now based in the UK.
-
 ### To Do
 * Finish blob detection allowing for any camera to be used.
+
+Made in 2020
