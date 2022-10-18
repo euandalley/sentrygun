@@ -3,7 +3,7 @@
 ## About
 This project was my personal attempt at designing software to control a Nerf gun I had mounted to two servos to detect and shoot at targets.
 
-![Sentry Gun with Xbox Kinect](/static/SentryGun.png/, Sentry Gun)
+![Sentry Gun with Xbox Kinect](/static/SentryGun.png/)
 
 The project was inspired by [Project Sentry Gun](https://sites.google.com/a/rudolphlabs.com/project-sentry-gun/home "Project Sentry Gun Home") however I wanted to design and make the software on my own.
 
